@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <!-- Dark Red Circle Background -->
+  <circle cx="250" cy="250" r="230" fill="#4A151D" stroke="#2B0A0F" stroke-width="12" />
+  
+  <!-- Owl Body / Head Base -->
+  <ellipse cx="250" cy="275" rx="140" ry="130" fill="#6E442B" stroke="#22130A" stroke-width="10" />
+  <ellipse cx="250" cy="295" rx="90" ry="95" fill="#EBD8C1" />
+  
+  <!-- Feather Texture Chest Markings -->
+  <path d="M 230,310 Q 250,325 270,310" fill="none" stroke="#6E442B" stroke-width="6" stroke-linecap="round" />
+  <path d="M 220,335 Q 250,350 280,335" fill="none" stroke="#6E442B" stroke-width="6" stroke-linecap="round" />
+  <path d="M 235,360 Q 250,372 265,360" fill="none" stroke="#6E442B" stroke-width="6" stroke-linecap="round" />
+  
+  <!-- Eye Patches (Big Owl Rings) -->
+  <circle cx="185" cy="245" r="48" fill="#FDFBF7" stroke="#22130A" stroke-width="8" />
+  <circle cx="315" cy="245" r="48" fill="#FDFBF7" stroke="#22130A" stroke-width="8" />
+  
+  <!-- Pupils -->
+  <circle cx="185" cy="245" r="22" fill="#F9A825" stroke="#22130A" stroke-width="5" />
+  <circle cx="185" cy="245" r="10" fill="#22130A" />
+  <circle cx="189" cy="241" r="4" fill="#FFFFFF" />
+  
+  <circle cx="315" cy="245" r="22" fill="#F9A825" stroke="#22130A" stroke-width="5" />
+  <circle cx="315" cy="245" r="10" fill="#22130A" />
+  <circle cx="319" cy="241" r="4" fill="#FFFFFF" />
+  
+  <!-- Beak -->
+  <polygon points="250,295 235,260 265,260" fill="#F9A825" stroke="#22130A" stroke-width="6" stroke-linejoin="round" />
+  
+  <!-- Academic Round Spectacles -->
+  <circle cx="185" cy="245" r="54" fill="none" stroke="#101010" stroke-width="10" />
+  <circle cx="315" cy="245" r="54" fill="none" stroke="#101010" stroke-width="10" />
+  <line x1="239" y1="245" x2="261" y2="245" stroke="#101010" stroke-width="10" />
+  
+  <!-- Studious Graduation Cap (Mortarboard) -->
+  <polygon points="250,110 390,150 250,190 110,150" fill="#1C1C1E" stroke="#000000" stroke-width="8" stroke-linejoin="round" />
+  <rect x="210" y="175" width="80" height="35" rx="6" fill="#1C1C1E" stroke="#000000" stroke-width="6" />
+  <!-- Tassel -->
+  <circle cx="250" cy="150" r="7" fill="#F9A825" />
+  <path d="M 250,150 L 330,165 L 330,195" fill="none" stroke="#F9A825" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

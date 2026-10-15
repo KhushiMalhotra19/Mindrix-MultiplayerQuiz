@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <!-- Dark Purple Circle Background -->
+  <circle cx="250" cy="250" r="230" fill="#3B1F52" stroke="#1F0E2E" stroke-width="12" />
+  
+  <!-- White Cat Ears -->
+  <polygon points="120,200 165,85 220,180" fill="#FFFFFF" stroke="#1D1D21" stroke-width="8" stroke-linejoin="round" />
+  <polygon points="135,185 165,105 205,175" fill="#FFB7B2" />
+  
+  <polygon points="280,180 335,85 380,200" fill="#FFFFFF" stroke="#1D1D21" stroke-width="8" stroke-linejoin="round" />
+  <polygon points="295,175 335,105 365,185" fill="#FFB7B2" />
+  
+  <!-- Head Base - White Cat -->
+  <ellipse cx="250" cy="260" rx="140" ry="120" fill="#FFFFFF" stroke="#1D1D21" stroke-width="10" />
+  <ellipse cx="250" cy="285" rx="85" ry="65" fill="#F7F3EE" />
+  
+  <!-- Cute Nose & Smile -->
+  <polygon points="250,262 241,248 259,248" fill="#FF8E8F" stroke="#1D1D21" stroke-width="3" />
+  <path d="M 250,262 C 240,280 220,280 210,268" fill="none" stroke="#1D1D21" stroke-width="6" stroke-linecap="round" />
+  <path d="M 250,262 C 260,280 280,280 290,268" fill="none" stroke="#1D1D21" stroke-width="6" stroke-linecap="round" />
+  
+  <!-- Smart & Cute Eyes (Both Eyes Visible!) -->
+  <!-- Left Eye -->
+  <ellipse cx="185" cy="225" rx="20" ry="24" fill="#3AAFA9" stroke="#1D1D21" stroke-width="6" />
+  <ellipse cx="185" cy="225" rx="6" ry="16" fill="#1D1D21" />
+  <circle cx="189" cy="217" r="4" fill="#FFFFFF" />
+  
+  <!-- Right Eye -->
+  <ellipse cx="315" cy="225" rx="20" ry="24" fill="#3AAFA9" stroke="#1D1D21" stroke-width="6" />
+  <ellipse cx="315" cy="225" rx="6" ry="16" fill="#1D1D21" />
+  <circle cx="319" cy="217" r="4" fill="#FFFFFF" />
+  
+  <!-- Smart Pink Bowtie -->
+  <polygon points="220,315 250,330 220,345" fill="#FF6B6B" stroke="#1D1D21" stroke-width="5" stroke-linejoin="round" />
+  <polygon points="280,315 250,330 280,345" fill="#FF6B6B" stroke="#1D1D21" stroke-width="5" stroke-linejoin="round" />
+  <circle cx="250" cy="330" r="10" fill="#FF8E8F" stroke="#1D1D21" stroke-width="5" />
+  
+  <!-- Whiskers -->
+  <line x1="120" y1="250" x2="175" y2="255" stroke="#1D1D21" stroke-width="5" stroke-linecap="round" />
+  <line x1="110" y1="270" x2="170" y2="270" stroke="#1D1D21" stroke-width="5" stroke-linecap="round" />
+  
+  <line x1="380" y1="250" x2="325" y2="255" stroke="#1D1D21" stroke-width="5" stroke-linecap="round" />
+  <line x1="390" y1="270" x2="330" y2="270" stroke="#1D1D21" stroke-width="5" stroke-linecap="round" />
+</svg>
